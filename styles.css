@@ -1,0 +1,59 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+}
+
+html{
+	background-color:lightslategrey;
+}
+
+.form{
+   background-color: darkgrey;
+   text-align: center;
+   margin-right: 20%;
+   margin-left: 20%;
+   margin-top: ;
+   padding-top: 5%;
+   padding-bottom: 5%;
+}
+
+#screen{
+	padding: 8%;
+	font-size:2rem;
+	text-align: center;
+	background-color: dimgrey;
+	color:white;
+}
+
+#a,#b{
+	padding: 1%;
+	background-color:lightslategrey;
+}
+
+input[type="number"]{
+color: white;
+font-size:2rem;
+font-weight:10rem;
+}
+
+input[type="button"]{
+	height:4rem;
+	width:4rem;
+	border:2px solid black;
+	border-radius:50%;
+	background-color:slategrey;
+}
+
+input[type="reset"]{
+	height:4rem;
+	width:4rem;
+	border:2px solid black;
+	border-radius:50%;
+	padding: 1.5rem;
+	background-color:slategrey;
+}
